@@ -1,5 +1,5 @@
 # RunWithFriends
-~ Realtime online multiplayer running app.
+- Realtime online multiplayer running app -
 
 Realtime online running app, where two players can connect privately online and then compete in a running race, whilst receiving realtime updates of their speed, and distance run.
 
