@@ -5,7 +5,7 @@ Realtime online running app, where two players can connect privately online and 
 
 This project was created for my A-level Computer Science coursework. It was developed during the first UK COVID-19 lockdown in order to re-motivate my brother to go out running, since he had lost his motivation with no friends to run with.
 
-Uses a Google Firestore Realtime database to provide realtime updates of statistics throughout the race and uses Apple's Core Location GPS Framework.
+It uses a Google Firestore Realtime database to provide realtime updates of statistics throughout the race and uses Apple's Core Location GPS Framework.
 
 Here are some screenshots of how the app works:
 
