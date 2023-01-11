@@ -1,5 +1,5 @@
 # RunWithFriends
-~ Realtime online multiplayer running app ~
+**_Realtime online multiplayer running app_**
 
 Realtime online running app, where two players can connect privately online and then compete in a running race, whilst receiving realtime updates of their speed, and distance run.
 
@@ -7,8 +7,10 @@ This project was created for my A-level Computer Science coursework. It was deve
 
 It uses a Google Firestore Realtime database to provide realtime updates of statistics throughout the race and uses Apple's Core Location GPS Framework.
 
-Here are some screenshots of how the app works:
+## Screenshots ##
 
 ![RunWithFriends Showcase](https://user-images.githubusercontent.com/59918630/196775387-dbbfc4a1-9a1c-4f70-a9b8-5d7f1ac21028.png)
+
+## Documentation ##
 
 I also wrote a 26,000 word and 150 page report, documenting the work as part of the A-level coursework. The document explains the design process, exhibits proposed tests and clearly demonstrates my development process. Please feel free to look through the document.
